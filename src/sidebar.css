@@ -1,0 +1,53 @@
+/* Six destinations, three distinct work areas, and a persistent desktop icon rail. */
+.telisik-app .t-sidebar{width:252px}
+.telisik-app .t-page-content{margin-left:252px}
+.telisik-app .t-brand-row{padding:18px 14px 17px;gap:6px}
+.telisik-app .t-brand{gap:8px;min-width:0}
+.telisik-app .t-brand>img{height:36px;width:36px}
+.telisik-app .t-brand>span{font-size:21px}
+.telisik-app .t-brand small{font-size:6px;letter-spacing:1.3px}
+.ns-fold{display:grid;place-items:center;width:29px;height:30px;flex-shrink:0;border:1px solid #cbd5e1;border-radius:6px;background:#fff;color:#475569;margin-left:auto;cursor:pointer;transition:all .15s}
+.ns-fold:hover{background:#eff6ff;color:#2457e7;border-color:#93c5fd}
+.telisik-app .t-case{margin:0 14px 18px;padding:13px 15px;min-height:0}
+.ns-mini-case{display:none}
+.telisik-app .t-sidebar-scroll{padding:0 12px 12px}
+.ns-group{padding:10px;background:#f8fafc;border:1px solid #e2e8f0;border-radius:8px;margin-bottom:12px}
+.ns-group-label{display:flex;align-items:center;justify-content:space-between;font-family:var(--t-font-mono);font-size:9px;line-height:1.5;letter-spacing:.12em;text-transform:uppercase;color:#475569;font-weight:600;margin:0 2px 9px}
+.ns-group-label>span{font-family:var(--t-font-mono);font-size:8.5px;letter-spacing:.05em;color:#64748b;background:#e2e8f0;padding:1px 5px;border-radius:4px}
+.ns-group>nav{display:flex;flex-direction:column;gap:5px}
+.ns-nav-link{display:flex;align-items:center;min-height:40px;padding:9px 11px;gap:10px;border:1px solid #e2e8f0;border-radius:6px;background:#fff;color:#334155;text-decoration:none;font-size:12px;font-weight:600;line-height:1.5;transition:background .15s,border-color .15s,color .15s,box-shadow .15s}
+.ns-nav-link>svg{flex-shrink:0;color:#64748b;transition:color .15s}
+.ns-nav-link:hover{background:#eff6ff;border-color:#93c5fd;color:#2457e7}
+.ns-nav-link:hover>svg{color:#2457e7}
+.ns-nav-link.is-active{background:#12213d;border-color:#12213d;color:#fff;box-shadow:inset 3px 0 0 #2457e7,0 4px 12px rgba(18,33,61,.14)}
+.ns-nav-link.is-active>svg{color:#60a5fa}
+.ns-active-arrow{margin-left:auto;opacity:.85;color:#93c5fd}
+.telisik-app .t-route-actions{margin:4px 0 0;padding-top:8px;border-top:1px solid #dce5f1}
+.telisik-app .t-route-actions>summary{font-size:11px;min-height:39px;padding:8px 11px}
+.telisik-app .t-sidebar-footer{padding:11px 14px 9px}
+.ns-fold:focus-visible,.ns-nav-link:focus-visible{outline:3px solid #97b8ff;outline-offset:3px}
+.evidence-workbench .lf-heading,.data-workbench .r-heading{display:none}
+.telisik-app .data-workbench .r-content{padding:0;margin:0;max-width:none}
+.data-workbench .risara{min-height:0;background:transparent}
+@media(min-width:961px){
+ .ns-is-collapsed .t-sidebar{width:80px}
+ .ns-is-collapsed .t-page-content{margin-left:80px}
+ .telisik-app.ns-is-collapsed .t-brand-row{flex-direction:column;padding:16px 0 12px;gap:11px}
+ .ns-is-collapsed .t-brand>span{display:none}
+ .ns-is-collapsed .ns-fold{margin:0;width:38px;height:29px;background:#f4f7fc}
+ .ns-is-collapsed .t-case{display:none}
+ .ns-is-collapsed .ns-mini-case{display:block;text-align:center;font-size:9px;letter-spacing:1px;color:#c7d8f2;background:#12213d;border-radius:6px;padding:7px 0;margin:0 18px 17px}
+ .telisik-app.ns-is-collapsed .t-sidebar-scroll{padding:0 12px 10px;overflow-x:hidden}
+ .ns-is-collapsed .ns-group{border:0;border-bottom:1px solid #dce5f1;border-radius:0;padding:0 0 12px;margin-bottom:12px;background:transparent}
+ .ns-is-collapsed .ns-group-label,.ns-is-collapsed .ns-nav-link>span,.ns-is-collapsed .ns-active-arrow{display:none}
+ .ns-is-collapsed .ns-nav-link{justify-content:center;padding:0;min-height:42px;border-radius:9px}
+ .ns-is-collapsed .ns-group>nav{gap:7px}
+ .telisik-app.ns-is-collapsed .t-route-actions{border:0;margin:0;padding:0}
+ .ns-is-collapsed .t-route-actions>summary{justify-content:center;padding:0;min-height:42px;border:1px solid #e0e7f2;border-radius:9px}
+ .ns-is-collapsed .t-route-actions>summary>span,.ns-is-collapsed .t-route-actions>summary>svg:last-child,.ns-is-collapsed #telisik-page-actions{display:none}
+ .telisik-app.ns-is-collapsed .t-sidebar-footer{padding:12px}
+ .ns-is-collapsed .t-analysis-mode{justify-content:center;padding:10px 0;gap:0}
+ .ns-is-collapsed .t-analysis-mode>span:nth-child(2),.ns-is-collapsed .t-analysis-mode>svg,.ns-is-collapsed .t-local-mode{display:none}
+}
+@media(max-width:960px){.telisik-app .t-sidebar{width:290px}.telisik-app .t-page-content{margin-left:0}.ns-fold{display:none}.telisik-app .t-brand-row{padding:18px}.ns-nav-link{min-height:42px;font-size:12px}.telisik-app .t-sidebar-scroll{padding:0 14px 12px}}
+@media(prefers-reduced-motion:reduce){.ns-nav-link{transition:none}}

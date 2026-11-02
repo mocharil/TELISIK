@@ -1,0 +1,688 @@
+{
+  "metadata": {
+    "captured_at": "2026-10-24T17:17:24.366356+00:00",
+    "keywords": [
+      "jakarta",
+      "banjir",
+      "transjakarta",
+      "mrt"
+    ],
+    "seed_feeds": [
+      {
+        "account": "jakpost.bsky.social",
+        "scanned": 100,
+        "matches": 18
+      },
+      {
+        "account": "kumparan-poster.bsky.social",
+        "scanned": 100,
+        "matches": 2
+      },
+      {
+        "account": "antara-poster.bsky.social",
+        "scanned": 100,
+        "matches": 2
+      },
+      {
+        "account": "nurapixel.bsky.social",
+        "scanned": 98,
+        "matches": 2
+      }
+    ]
+  },
+  "posts": [
+    {
+      "uri": "at://did:plc:mwlzey3sttvtzgjtfci54ub3/app.bsky.feed.post/3myn6jfvttr2d",
+      "did": "did:plc:mwlzey3sttvtzgjtfci54ub3",
+      "handle": "antara-poster.bsky.social",
+      "text": "Jakarta Game On 2026 buka peluang ekonomi bagi Gen Z - https://www.antaranews.com/berita/5809955/jakarta-game-on-2026-buka-peluang-ekonomi-bagi-gen-z",
+      "created_at": "2026-10-24T17:06:38.968Z",
+      "collected_at": "2026-10-24T17:17:24.366356+00:00",
+      "langs": [
+        "id"
+      ],
+      "links": [
+        "https://www.antaranews.com/berita/5809955/jakarta-game-on-2026-buka-peluang-ekonomi-bagi-gen-z"
+      ],
+      "topic": "Other",
+      "origin": "public-snapshot",
+      "url": "https://bsky.app/profile/did:plc:mwlzey3sttvtzgjtfci54ub3/post/3myn6jfvttr2d",
+      "reply_to": null,
+      "quote_of": null,
+      "context_only": false,
+      "matched_keywords": [
+        "jakarta"
+      ],
+      "excerpted": false
+    },
+    {
+      "uri": "at://did:plc:4xhmehz5zokyl44jfjgevqzt/app.bsky.feed.post/3mymxszka3o2j",
+      "did": "did:plc:4xhmehz5zokyl44jfjgevqzt",
+      "handle": "kumparan-poster.bsky.social",
+      "text": "Tak Mampir ke Australia, Fans Rela Terbang ke Jakarta untuk Nonton Kanye West - https://kumparan.com/kumparannews/tak-mampir-ke-australia-fans-rela-terbang-ke-jakarta-untuk-nonton-kanye-west-28RHXuEcEgZ",
+      "created_at": "2026-10-24T15:06:45.354Z",
+      "collected_at": "2026-10-24T17:17:24.366356+00:00",
+      "langs": [
+        "id"
+      ],
+      "links": [
+        "https://kumparan.com/kumparannews/tak-mampir-ke-australia-fans-rela-terbang-ke-jakarta-untuk-nonton-kanye-west-28RHXuEcEgZ"
+      ],
+      "topic": "Other",
+      "origin": "public-snapshot",
+      "url": "https://bsky.app/profile/did:plc:4xhmehz5zokyl44jfjgevqzt/post/3mymxszka3o2j",
+      "reply_to": null,
+      "quote_of": null,
+      "context_only": false,
+      "matched_keywords": [
+        "jakarta"
+      ],
+      "excerpted": false
+    },
+    {
+      "uri": "at://did:plc:4xhmehz5zokyl44jfjgevqzt/app.bsky.feed.post/3mympgliwwx2q",
+      "did": "did:plc:4xhmehz5zokyl44jfjgevqzt",
+      "handle": "kumparan-poster.bsky.social",
+      "text": "Pramono Anung Curhat Susah Tidur Jelang Konser Ye di GBK: Berharap Jakarta Hujan - https://kumparan.com/kumparanhits/pramono-anung-curhat-susah-tidur-jelang-konser-ye-di-gbk-berharap-jakarta-hujan-28RAQcP5Dym",
+      "created_at": "2026-10-24T12:36:38.049Z",
+      "collected_at": "2026-10-24T17:17:24.366356+00:00",
+      "langs": [
+        "id"
+      ],
+      "links": [
+        "https://kumparan.com/kumparanhits/pramono-anung-curhat-susah-tidur-jelang-konser-ye-di-gbk-berharap-jakarta-hujan-28RAQcP5Dym"
+      ],
+      "topic": "Flooding",
+      "origin": "public-snapshot",
+      "url": "https://bsky.app/profile/did:plc:4xhmehz5zokyl44jfjgevqzt/post/3mympgliwwx2q",
+      "reply_to": null,
+      "quote_of": null,
+      "context_only": false,
+      "matched_keywords": [
+        "jakarta"
+      ],
+      "excerpted": false
+    },
+    {
+      "uri": "at://did:plc:mwlzey3sttvtzgjtfci54ub3/app.bsky.feed.post/3mymmxkpgm427",
+      "did": "did:plc:mwlzey3sttvtzgjtfci54ub3",
+      "handle": "antara-poster.bsky.social",
+      "text": "Pemain AS nilai perkembangan padel Jakarta semakin pesat - https://www.antaranews.com/berita/5809583/pemain-as-nilai-perkembangan-padel-jakarta-semakin-pesat",
+      "created_at": "2026-10-24T11:52:26.411Z",
+      "collected_at": "2026-10-24T17:17:24.366356+00:00",
+      "langs": [
+        "id"
+      ],
+      "links": [
+        "https://www.antaranews.com/berita/5809583/pemain-as-nilai-perkembangan-padel-jakarta-semakin-pesat"
+      ],
+      "topic": "Other",
+      "origin": "public-snapshot",
+      "url": "https://bsky.app/profile/did:plc:mwlzey3sttvtzgjtfci54ub3/post/3mymmxkpgm427",
+      "reply_to": null,
+      "quote_of": null,
+      "context_only": false,
+      "matched_keywords": [
+        "jakarta"
+      ],
+      "excerpted": false
+    },
+    {
+      "uri": "at://did:plc:5p4j5ubexmh5uggvh2djeg5b/app.bsky.feed.post/3mybqu2mwpk23",
+      "did": "did:plc:5p4j5ubexmh5uggvh2djeg5b",
+      "handle": "jakpost.bsky.social",
+      "text": "Residents flock to Greater Jakarta's growing green spaces www.thejakartapost.com/indonesia/20...",
+      "created_at": "2026-10-20T04:02:46.798Z",
+      "collected_at": "2026-10-24T17:17:24.366356+00:00",
+      "langs": [
+        "en"
+      ],
+      "links": [
+        "https://www.thejakartapost.com/indonesia/2026/10/05/residents-flock-to-greater-jakartas-growing-green-spaces"
+      ],
+      "topic": "Environment",
+      "origin": "public-snapshot",
+      "url": "https://bsky.app/profile/did:plc:5p4j5ubexmh5uggvh2djeg5b/post/3mybqu2mwpk23",
+      "reply_to": null,
+      "quote_of": null,
+      "context_only": false,
+      "matched_keywords": [
+        "jakarta"
+      ],
+      "excerpted": false
+    },
+    {
+      "uri": "at://did:plc:5p4j5ubexmh5uggvh2djeg5b/app.bsky.feed.post/3mx6ktcfj2s22",
+      "did": "did:plc:5p4j5ubexmh5uggvh2djeg5b",
+      "handle": "jakpost.bsky.social",
+      "text": "Jakarta’s makeshift classrooms under sweltering threat www.thejakartapost.com/indonesia/20...",
+      "created_at": "2026-10-06T04:11:48.095Z",
+      "collected_at": "2026-10-24T17:17:24.366356+00:00",
+      "langs": [
+        "en"
+      ],
+      "links": [
+        "https://www.thejakartapost.com/indonesia/2026/09/16/jakartas-makeshift-classrooms-under-sweltering-threat?utm_source=(direct)&utm_medium=home_editorspicks"
+      ],
+      "topic": "Public services",
+      "origin": "public-snapshot",
+      "url": "https://bsky.app/profile/did:plc:5p4j5ubexmh5uggvh2djeg5b/post/3mx6ktcfj2s22",
+      "reply_to": null,
+      "quote_of": null,
+      "context_only": false,
+      "matched_keywords": [
+        "jakarta"
+      ],
+      "excerpted": false
+    },
+    {
+      "uri": "at://did:plc:5maxtzb36jzighut6tnfza4a/app.bsky.feed.post/3mvbie5x3z22o",
+      "did": "did:plc:5maxtzb36jzighut6tnfza4a",
+      "handle": "wallpixelart.bsky.social",
+      "text": "🫡 Great work, Waller. Your mission starts now. 🪖 I’m the WallPixelArt Recruiter. Are you ready to defend your Pixel Art clan? ❓ Good luck. …",
+      "created_at": "2026-09-11T21:15:08.588Z",
+      "collected_at": "2026-10-24T17:17:24.366356+00:00",
+      "langs": [
+        "en"
+      ],
+      "links": [
+        "https://Wallpixelart.com"
+      ],
+      "topic": "Other",
+      "origin": "public-snapshot",
+      "url": "https://bsky.app/profile/did:plc:5maxtzb36jzighut6tnfza4a/post/3mvbie5x3z22o",
+      "reply_to": "at://did:plc:s5k2fdjbe23xz6v75nzudc6n/app.bsky.feed.post/3mv7xyibou22b",
+      "quote_of": null,
+      "context_only": true,
+      "matched_keywords": [],
+      "excerpted": true
+    },
+    {
+      "uri": "at://did:plc:s5k2fdjbe23xz6v75nzudc6n/app.bsky.feed.post/3mvatv6onus2b",
+      "did": "did:plc:s5k2fdjbe23xz6v75nzudc6n",
+      "handle": "nurapixel.bsky.social",
+      "text": "BUS BUS BUS",
+      "created_at": "2026-09-11T15:08:51.208Z",
+      "collected_at": "2026-10-24T17:17:24.366356+00:00",
+      "langs": [
+        "en"
+      ],
+      "links": [],
+      "topic": "Transport",
+      "origin": "public-snapshot",
+      "url": "https://bsky.app/profile/did:plc:s5k2fdjbe23xz6v75nzudc6n/post/3mvatv6onus2b",
+      "reply_to": "at://did:plc:vxossdizgcwmdj34525gzjem/app.bsky.feed.post/3mvas4p3mdk2t",
+      "quote_of": null,
+      "context_only": true,
+      "matched_keywords": [],
+      "excerpted": false
+    },
+    {
+      "uri": "at://did:plc:vxossdizgcwmdj34525gzjem/app.bsky.feed.post/3mvas4p3mdk2t",
+      "did": "did:plc:vxossdizgcwmdj34525gzjem",
+      "handle": "liverpaiche.bsky.social",
+      "text": "BUS",
+      "created_at": "2026-09-11T14:37:15.807Z",
+      "collected_at": "2026-10-24T17:17:24.366356+00:00",
+      "langs": [
+        "en"
+      ],
+      "links": [],
+      "topic": "Transport",
+      "origin": "public-snapshot",
+      "url": "https://bsky.app/profile/did:plc:vxossdizgcwmdj34525gzjem/post/3mvas4p3mdk2t",
+      "reply_to": "at://did:plc:s5k2fdjbe23xz6v75nzudc6n/app.bsky.feed.post/3mv7xyibou22b",
+      "quote_of": null,
+      "context_only": true,
+      "matched_keywords": [],
+      "excerpted": false
+    },
+    {
+      "uri": "at://did:plc:s5k2fdjbe23xz6v75nzudc6n/app.bsky.feed.post/3mva2k7s6ws2e",
+      "did": "did:plc:s5k2fdjbe23xz6v75nzudc6n",
+      "handle": "nurapixel.bsky.social",
+      "text": "thank you!!",
+      "created_at": "2026-09-11T07:35:19.727Z",
+      "collected_at": "2026-10-24T17:17:24.366356+00:00",
+      "langs": [
+        "en"
+      ],
+      "links": [],
+      "topic": "Other",
+      "origin": "public-snapshot",
+      "url": "https://bsky.app/profile/did:plc:s5k2fdjbe23xz6v75nzudc6n/post/3mva2k7s6ws2e",
+      "reply_to": "at://did:plc:efpxdgsxdnfoermfwi3a6vtg/app.bsky.feed.post/3mv7zssz5z224",
+      "quote_of": null,
+      "context_only": true,
+      "matched_keywords": [],
+      "excerpted": false
+    },
+    {
+      "uri": "at://did:plc:efpxdgsxdnfoermfwi3a6vtg/app.bsky.feed.post/3mv7zssz5z224",
+      "did": "did:plc:efpxdgsxdnfoermfwi3a6vtg",
+      "handle": "alfredtwu.com",
+      "text": "Love the artwork!😍🚌",
+      "created_at": "2026-09-11T07:22:14.573Z",
+      "collected_at": "2026-10-24T17:17:24.366356+00:00",
+      "langs": [
+        "en"
+      ],
+      "links": [],
+      "topic": "Other",
+      "origin": "public-snapshot",
+      "url": "https://bsky.app/profile/did:plc:efpxdgsxdnfoermfwi3a6vtg/post/3mv7zssz5z224",
+      "reply_to": "at://did:plc:s5k2fdjbe23xz6v75nzudc6n/app.bsky.feed.post/3mv7xyibou22b",
+      "quote_of": null,
+      "context_only": true,
+      "matched_keywords": [],
+      "excerpted": false
+    },
+    {
+      "uri": "at://did:plc:s5k2fdjbe23xz6v75nzudc6n/app.bsky.feed.post/3mv7xyibou22b",
+      "did": "did:plc:s5k2fdjbe23xz6v75nzudc6n",
+      "handle": "nurapixel.bsky.social",
+      "text": "Transjakarta my beloved BRT, made my travel really convenient when I'm visiting Jakarta #pixelart #ドット絵",
+      "created_at": "2026-09-11T06:49:37.160Z",
+      "collected_at": "2026-10-24T17:17:24.366356+00:00",
+      "langs": [
+        "en"
+      ],
+      "links": [],
+      "topic": "Transport",
+      "origin": "public-snapshot",
+      "url": "https://bsky.app/profile/did:plc:s5k2fdjbe23xz6v75nzudc6n/post/3mv7xyibou22b",
+      "reply_to": null,
+      "quote_of": null,
+      "context_only": false,
+      "matched_keywords": [
+        "jakarta",
+        "transjakarta"
+      ],
+      "excerpted": false
+    },
+    {
+      "uri": "at://did:plc:5p4j5ubexmh5uggvh2djeg5b/app.bsky.feed.post/3muy6gzv25k2m",
+      "did": "did:plc:5p4j5ubexmh5uggvh2djeg5b",
+      "handle": "jakpost.bsky.social",
+      "text": "Too hot for Jakarta kids to play outside www.thejakartapost.com/indonesia/20...",
+      "created_at": "2026-09-08T04:23:49.923Z",
+      "collected_at": "2026-10-24T17:17:24.366356+00:00",
+      "langs": [
+        "en"
+      ],
+      "links": [
+        "https://www.thejakartapost.com/indonesia/2026/08/26/too-hot-for-jakarta-kids-to-play-outside"
+      ],
+      "topic": "Other",
+      "origin": "public-snapshot",
+      "url": "https://bsky.app/profile/did:plc:5p4j5ubexmh5uggvh2djeg5b/post/3muy6gzv25k2m",
+      "reply_to": null,
+      "quote_of": null,
+      "context_only": false,
+      "matched_keywords": [
+        "jakarta"
+      ],
+      "excerpted": false
+    },
+    {
+      "uri": "at://did:plc:5p4j5ubexmh5uggvh2djeg5b/app.bsky.feed.post/3mtxls6kg4c2j",
+      "did": "did:plc:5p4j5ubexmh5uggvh2djeg5b",
+      "handle": "jakpost.bsky.social",
+      "text": "Transjakarta’s water transit plan raises connectivity hope for Thousand Islands www.thejakartapost.com/indonesia/20...",
+      "created_at": "2026-08-26T05:24:51.184Z",
+      "collected_at": "2026-10-24T17:17:24.366356+00:00",
+      "langs": [
+        "en"
+      ],
+      "links": [
+        "https://www.thejakartapost.com/indonesia/2026/08/12/transjakartas-water-transit-plan-raises-connectivity-hope-for-thousand-islands?utm_source=(direct)&utm_medium=channel_indonesia"
+      ],
+      "topic": "Transport",
+      "origin": "public-snapshot",
+      "url": "https://bsky.app/profile/did:plc:5p4j5ubexmh5uggvh2djeg5b/post/3mtxls6kg4c2j",
+      "reply_to": null,
+      "quote_of": null,
+      "context_only": false,
+      "matched_keywords": [
+        "transjakarta"
+      ],
+      "excerpted": false
+    },
+    {
+      "uri": "at://did:plc:5p4j5ubexmh5uggvh2djeg5b/app.bsky.feed.post/3msub6jgw7s2x",
+      "did": "did:plc:5p4j5ubexmh5uggvh2djeg5b",
+      "handle": "jakpost.bsky.social",
+      "text": "Jakarta commuters trade time for savings as fuel prices remain high www.thejakartapost.com/indonesia/20...",
+      "created_at": "2026-08-12T04:11:43.258Z",
+      "collected_at": "2026-10-24T17:17:24.366356+00:00",
+      "langs": [
+        "en"
+      ],
+      "links": [
+        "https://www.thejakartapost.com/indonesia/2026/08/04/jakarta-commuters-trade-time-for-savings-as-fuel-prices-remain-high?utm_source=(direct)&utm_medium=channel_indonesia"
+      ],
+      "topic": "Transport",
+      "origin": "public-snapshot",
+      "url": "https://bsky.app/profile/did:plc:5p4j5ubexmh5uggvh2djeg5b/post/3msub6jgw7s2x",
+      "reply_to": null,
+      "quote_of": null,
+      "context_only": false,
+      "matched_keywords": [
+        "jakarta"
+      ],
+      "excerpted": false
+    },
+    {
+      "uri": "at://did:plc:5p4j5ubexmh5uggvh2djeg5b/app.bsky.feed.post/3msaelbokak2t",
+      "did": "did:plc:5p4j5ubexmh5uggvh2djeg5b",
+      "handle": "jakpost.bsky.social",
+      "text": "‘Endless’ works infuriate commuters on Jakarta-Tangerang toll road www.thejakartapost.com/indonesia/20...",
+      "created_at": "2026-08-04T06:19:17.789Z",
+      "collected_at": "2026-10-24T17:17:24.366356+00:00",
+      "langs": [
+        "en"
+      ],
+      "links": [
+        "https://www.thejakartapost.com/indonesia/2026/07/20/endless-works-infuriate-commuters-on-jakarta-tangerang-toll-road"
+      ],
+      "topic": "Transport",
+      "origin": "public-snapshot",
+      "url": "https://bsky.app/profile/did:plc:5p4j5ubexmh5uggvh2djeg5b/post/3msaelbokak2t",
+      "reply_to": null,
+      "quote_of": null,
+      "context_only": false,
+      "matched_keywords": [
+        "jakarta"
+      ],
+      "excerpted": false
+    },
+    {
+      "uri": "at://did:plc:5p4j5ubexmh5uggvh2djeg5b/app.bsky.feed.post/3mrm6ehenpk2f",
+      "did": "did:plc:5p4j5ubexmh5uggvh2djeg5b",
+      "handle": "jakpost.bsky.social",
+      "text": "52 percent of Jakarta Schools located near heavy metal-contaminated sites: study www.thejakartapost.com/indonesia/20...",
+      "created_at": "2026-07-27T05:34:51.654Z",
+      "collected_at": "2026-10-24T17:17:24.366356+00:00",
+      "langs": [
+        "en"
+      ],
+      "links": [
+        "https://www.thejakartapost.com/indonesia/2026/07/15/52-percent-of-jakarta-schools-located-near-heavy-metal-contaminated-sites-study"
+      ],
+      "topic": "Public services",
+      "origin": "public-snapshot",
+      "url": "https://bsky.app/profile/did:plc:5p4j5ubexmh5uggvh2djeg5b/post/3mrm6ehenpk2f",
+      "reply_to": null,
+      "quote_of": null,
+      "context_only": false,
+      "matched_keywords": [
+        "jakarta"
+      ],
+      "excerpted": false
+    },
+    {
+      "uri": "at://did:plc:5p4j5ubexmh5uggvh2djeg5b/app.bsky.feed.post/3mpn7acnfxc2w",
+      "did": "did:plc:5p4j5ubexmh5uggvh2djeg5b",
+      "handle": "jakpost.bsky.social",
+      "text": "Trap, neuter, release: Jakarta battles cat-astrophic stray numbers www.thejakartapost.com/culture/2026...",
+      "created_at": "2026-07-02T04:32:42.695Z",
+      "collected_at": "2026-10-24T17:17:24.366356+00:00",
+      "langs": [
+        "en"
+      ],
+      "links": [
+        "https://www.thejakartapost.com/culture/2026/06/18/trap-neuter-release-jakarta-battles-cat-astrophic-stray-numbers?utm_source=(direct)&utm_medium=channel_culture"
+      ],
+      "topic": "Other",
+      "origin": "public-snapshot",
+      "url": "https://bsky.app/profile/did:plc:5p4j5ubexmh5uggvh2djeg5b/post/3mpn7acnfxc2w",
+      "reply_to": null,
+      "quote_of": null,
+      "context_only": false,
+      "matched_keywords": [
+        "jakarta"
+      ],
+      "excerpted": false
+    },
+    {
+      "uri": "at://did:plc:5p4j5ubexmh5uggvh2djeg5b/app.bsky.feed.post/3mngx52wk722z",
+      "did": "did:plc:5p4j5ubexmh5uggvh2djeg5b",
+      "handle": "jakpost.bsky.social",
+      "text": "'Samtama Village' shows Jakarta potential of waste sorting www.thejakartapost.com/indonesia/20...",
+      "created_at": "2026-06-04T06:01:22.333Z",
+      "collected_at": "2026-10-24T17:17:24.366356+00:00",
+      "langs": [
+        "en"
+      ],
+      "links": [
+        "https://www.thejakartapost.com/indonesia/2026/05/15/samtama-village-shows-jakarta-potential-of-waste-sorting"
+      ],
+      "topic": "Environment",
+      "origin": "public-snapshot",
+      "url": "https://bsky.app/profile/did:plc:5p4j5ubexmh5uggvh2djeg5b/post/3mngx52wk722z",
+      "reply_to": null,
+      "quote_of": null,
+      "context_only": false,
+      "matched_keywords": [
+        "jakarta"
+      ],
+      "excerpted": false
+    },
+    {
+      "uri": "at://did:plc:5p4j5ubexmh5uggvh2djeg5b/app.bsky.feed.post/3mmdlxllkf22p",
+      "did": "did:plc:5p4j5ubexmh5uggvh2djeg5b",
+      "handle": "jakpost.bsky.social",
+      "text": "Slums in Jakarta reduced by half in past decade www.thejakartapost.com/indonesia/20...",
+      "created_at": "2026-05-21T04:38:16.457Z",
+      "collected_at": "2026-10-24T17:17:24.366356+00:00",
+      "langs": [
+        "en"
+      ],
+      "links": [
+        "https://www.thejakartapost.com/indonesia/2026/05/11/slums-in-jakarta-reduced-by-half-in-past-decade.html?utm_source=(direct)&utm_medium=channel_indonesia"
+      ],
+      "topic": "Other",
+      "origin": "public-snapshot",
+      "url": "https://bsky.app/profile/did:plc:5p4j5ubexmh5uggvh2djeg5b/post/3mmdlxllkf22p",
+      "reply_to": null,
+      "quote_of": null,
+      "context_only": false,
+      "matched_keywords": [
+        "jakarta"
+      ],
+      "excerpted": false
+    },
+    {
+      "uri": "at://did:plc:5p4j5ubexmh5uggvh2djeg5b/app.bsky.feed.post/3ml5tzoba4c2q",
+      "did": "did:plc:5p4j5ubexmh5uggvh2djeg5b",
+      "handle": "jakpost.bsky.social",
+      "text": "Transjakarta delivers major economic gains, household savings www.thejakartapost.com/indonesia/20...",
+      "created_at": "2026-05-06T04:21:26.252Z",
+      "collected_at": "2026-10-24T17:17:24.366356+00:00",
+      "langs": [
+        "en"
+      ],
+      "links": [
+        "https://www.thejakartapost.com/indonesia/2026/04/16/transjakarta-delivers-major-economic-gains-household-savings.html?utm_source=(direct)&utm_medium=channel_jakarta"
+      ],
+      "topic": "Transport",
+      "origin": "public-snapshot",
+      "url": "https://bsky.app/profile/did:plc:5p4j5ubexmh5uggvh2djeg5b/post/3ml5tzoba4c2q",
+      "reply_to": null,
+      "quote_of": null,
+      "context_only": false,
+      "matched_keywords": [
+        "transjakarta"
+      ],
+      "excerpted": false
+    },
+    {
+      "uri": "at://did:plc:5p4j5ubexmh5uggvh2djeg5b/app.bsky.feed.post/3mjggjwxn5s27",
+      "did": "did:plc:5p4j5ubexmh5uggvh2djeg5b",
+      "handle": "jakpost.bsky.social",
+      "text": "Jakarta still attracts newcomers despite rising costs, shrinking jobs www.thejakartapost.com/indonesia/20...",
+      "created_at": "2026-04-14T03:23:34.246Z",
+      "collected_at": "2026-10-24T17:17:24.366356+00:00",
+      "langs": [
+        "en"
+      ],
+      "links": [
+        "https://www.thejakartapost.com/indonesia/2026/03/31/jakarta-still-attract-newcomers-despite-rising-costs-shrinking-jobs.html?utm_source=(direct)&utm_medium=channel_indonesia"
+      ],
+      "topic": "Other",
+      "origin": "public-snapshot",
+      "url": "https://bsky.app/profile/did:plc:5p4j5ubexmh5uggvh2djeg5b/post/3mjggjwxn5s27",
+      "reply_to": null,
+      "quote_of": null,
+      "context_only": false,
+      "matched_keywords": [
+        "jakarta"
+      ],
+      "excerpted": false
+    },
+    {
+      "uri": "at://did:plc:5p4j5ubexmh5uggvh2djeg5b/app.bsky.feed.post/3miv7clbcos2t",
+      "did": "did:plc:5p4j5ubexmh5uggvh2djeg5b",
+      "handle": "jakpost.bsky.social",
+      "text": "‘Ojol’ shortage in Jakarta exposes gaps in ride-hailing sector www.thejakartapost.com/indonesia/20...",
+      "created_at": "2026-04-07T06:58:55.368Z",
+      "collected_at": "2026-10-24T17:17:24.366356+00:00",
+      "langs": [
+        "en"
+      ],
+      "links": [
+        "https://www.thejakartapost.com/indonesia/2026/03/13/ojol-shortage-in-jakarta-exposes-gaps-in-ride-hailing-sector.html?utm_source=(direct)&utm_medium=channel_indonesia"
+      ],
+      "topic": "Transport",
+      "origin": "public-snapshot",
+      "url": "https://bsky.app/profile/did:plc:5p4j5ubexmh5uggvh2djeg5b/post/3miv7clbcos2t",
+      "reply_to": null,
+      "quote_of": null,
+      "context_only": false,
+      "matched_keywords": [
+        "jakarta"
+      ],
+      "excerpted": false
+    },
+    {
+      "uri": "at://did:plc:5p4j5ubexmh5uggvh2djeg5b/app.bsky.feed.post/3mhu7e2xpkk2g",
+      "did": "did:plc:5p4j5ubexmh5uggvh2djeg5b",
+      "handle": "jakpost.bsky.social",
+      "text": "Jakarta padel boom rattles residential areas www.thejakartapost.com/indonesia/20...",
+      "created_at": "2026-03-25T04:01:54.015Z",
+      "collected_at": "2026-10-24T17:17:24.366356+00:00",
+      "langs": [
+        "en"
+      ],
+      "links": [
+        "https://www.thejakartapost.com/indonesia/2026/02/27/jakarta-tightens-rules-as-padel-courts-encroach-on-housing-areas.html"
+      ],
+      "topic": "Other",
+      "origin": "public-snapshot",
+      "url": "https://bsky.app/profile/did:plc:5p4j5ubexmh5uggvh2djeg5b/post/3mhu7e2xpkk2g",
+      "reply_to": null,
+      "quote_of": null,
+      "context_only": false,
+      "matched_keywords": [
+        "jakarta"
+      ],
+      "excerpted": false
+    },
+    {
+      "uri": "at://did:plc:5p4j5ubexmh5uggvh2djeg5b/app.bsky.feed.post/3mflez2ag4k2g",
+      "did": "did:plc:5p4j5ubexmh5uggvh2djeg5b",
+      "handle": "jakpost.bsky.social",
+      "text": "Jakarta tightens groundwater rule to curb subsidence www.thejakartapost.com/indonesia/20...",
+      "created_at": "2026-02-24T04:58:45.709Z",
+      "collected_at": "2026-10-24T17:17:24.366356+00:00",
+      "langs": [
+        "en"
+      ],
+      "links": [
+        "https://www.thejakartapost.com/indonesia/2026/02/09/jakarta-tightens-groundwater-rule-to-curb-subsidence.html?utm_source=(direct)&utm_medium=channel_indonesia"
+      ],
+      "topic": "Environment",
+      "origin": "public-snapshot",
+      "url": "https://bsky.app/profile/did:plc:5p4j5ubexmh5uggvh2djeg5b/post/3mflez2ag4k2g",
+      "reply_to": null,
+      "quote_of": null,
+      "context_only": false,
+      "matched_keywords": [
+        "jakarta"
+      ],
+      "excerpted": false
+    },
+    {
+      "uri": "at://did:plc:5p4j5ubexmh5uggvh2djeg5b/app.bsky.feed.post/3me633lnqzc2m",
+      "did": "did:plc:5p4j5ubexmh5uggvh2djeg5b",
+      "handle": "jakpost.bsky.social",
+      "text": "Living with the strain: Why Jakarta is still home www.thejakartapost.com/culture/2026...",
+      "created_at": "2026-02-06T04:31:25.435Z",
+      "collected_at": "2026-10-24T17:17:24.366356+00:00",
+      "langs": [
+        "en"
+      ],
+      "links": [
+        "https://www.thejakartapost.com/culture/2026/01/22/living-with-the-strain-why-jakarta-is-still-home.html?utm_source=(direct)&utm_medium=channel_culture"
+      ],
+      "topic": "Other",
+      "origin": "public-snapshot",
+      "url": "https://bsky.app/profile/did:plc:5p4j5ubexmh5uggvh2djeg5b/post/3me633lnqzc2m",
+      "reply_to": null,
+      "quote_of": null,
+      "context_only": false,
+      "matched_keywords": [
+        "jakarta"
+      ],
+      "excerpted": false
+    },
+    {
+      "uri": "at://did:plc:5p4j5ubexmh5uggvh2djeg5b/app.bsky.feed.post/3mctmudhy3c2i",
+      "did": "did:plc:5p4j5ubexmh5uggvh2djeg5b",
+      "handle": "jakpost.bsky.social",
+      "text": "Overcrowded settlements, weak safety fuel Jakarta’s fire crisis www.thejakartapost.com/indonesia/20...",
+      "created_at": "2026-01-20T07:25:00.584Z",
+      "collected_at": "2026-10-24T17:17:24.366356+00:00",
+      "langs": [
+        "en"
+      ],
+      "links": [
+        "https://www.thejakartapost.com/indonesia/2026/01/07/overcrowded-settlements-weak-safety-fuel-jakartas-fire-crisis.html?utm_source=(direct)&utm_medium=channel_indonesia"
+      ],
+      "topic": "Other",
+      "origin": "public-snapshot",
+      "url": "https://bsky.app/profile/did:plc:5p4j5ubexmh5uggvh2djeg5b/post/3mctmudhy3c2i",
+      "reply_to": null,
+      "quote_of": null,
+      "context_only": false,
+      "matched_keywords": [
+        "jakarta"
+      ],
+      "excerpted": false
+    },
+    {
+      "uri": "at://did:plc:5p4j5ubexmh5uggvh2djeg5b/app.bsky.feed.post/3mcbsab2qpk24",
+      "did": "did:plc:5p4j5ubexmh5uggvh2djeg5b",
+      "handle": "jakpost.bsky.social",
+      "text": "Starts return to Jakarta as planetarium reopens to eager crowds www.thejakartapost.com/indonesia/20...",
+      "created_at": "2026-01-13T05:13:14.106Z",
+      "collected_at": "2026-10-24T17:17:24.366356+00:00",
+      "langs": [
+        "en"
+      ],
+      "links": [
+        "https://www.thejakartapost.com/indonesia/2025/12/30/starts-return-to-jakarta-as-planetarium-reopens-to-eager-crowds.html?utm_source=(direct)&utm_medium=channel_indonesia"
+      ],
+      "topic": "Public services",
+      "origin": "public-snapshot",
+      "url": "https://bsky.app/profile/did:plc:5p4j5ubexmh5uggvh2djeg5b/post/3mcbsab2qpk24",
+      "reply_to": null,
+      "quote_of": null,
+      "context_only": false,
+      "matched_keywords": [
+        "jakarta"
+      ],
+      "excerpted": false
+    }
+  ]
+}
